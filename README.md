@@ -12,7 +12,7 @@ This is a Python tool that extracts unique hex color codes from pixel art images
 
 2. Install the required dependencies:
     ```bash
-    pip3 install -r requirements.txt
+    pip install pillow
     ```
 
 ## Usage
